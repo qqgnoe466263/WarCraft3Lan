@@ -2,7 +2,6 @@
 This is a WarCraft3 Lan tool~
 
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=cd9KwGhrkcA "Everything Is AWESOME")
+[![test](http://img.youtube.com/vi/cd9KwGhrkcA/0.jpg)](https://www.youtube.com/watch?v=cd9KwGhrkcA "test movie")
 
 
-https://www.youtube.com/watch?v=cd9KwGhrkcA
